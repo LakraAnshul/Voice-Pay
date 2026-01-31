@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lakraanshul.github.io/Vachan-Pay",
+  "homepage": "https://lakraanshul.github.io/Voice-Pay",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

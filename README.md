@@ -1,4 +1,4 @@
-# 💳 Vachan-Pay
+# 💳 Voice-Pay
 
 > **A Voice-Enabled Digital Payment Application**
 
@@ -10,7 +10,7 @@
 ![Vite](https://img.shields.io/badge/Vite-6.1.0-purple?logo=vite)
 ![Node](https://img.shields.io/badge/Node.js-16+-green?logo=node.js)
 
-**Vachan-Pay** is an innovative digital payment application that leverages **voice recognition** and **speech synthesis** to enable accessible, hands-free payment transactions. Built with modern web technologies, it provides a seamless, user-friendly experience for secure money transfers.
+**Voice-Pay** is an innovative digital payment application that leverages **voice recognition** and **speech synthesis** to enable accessible, hands-free payment transactions. Built with modern web technologies, it provides a seamless, user-friendly experience for secure money transfers.
 
 [Demo](#) • [Documentation](#-features) • [Contributing](#-contributing)
 
@@ -20,7 +20,7 @@
 
 ## 🎯 Overview
 
-Vachan-Pay revolutionizes digital payments by introducing voice-enabled transactions. Whether you want to send money to a contact or check your balance, simply speak your request and let the AI handle it. The application supports multiple languages (English & Hindi) and provides real-time feedback through speech synthesis.
+Voice-Pay revolutionizes digital payments by introducing voice-enabled transactions. Whether you want to send money to a contact or check your balance, simply speak your request and let the AI handle it. The application supports multiple languages (English & Hindi) and provides real-time feedback through speech synthesis.
 
 ### ✨ Key Highlights
 
@@ -47,8 +47,8 @@ Vachan-Pay revolutionizes digital payments by introducing voice-enabled transact
 
 ```bash
 # Clone the repository
-git clone https://github.com/lakraanshul/Vachan-Pay.git
-cd Vachan-Pay
+git clone https://github.com/lakraanshul/Voice-Pay.git
+cd Voice-Pay
 
 # Install dependencies
 npm install
@@ -74,7 +74,7 @@ npm run preview
 ## 📁 Project Structure
 
 ```
-Vachan-Pay/
+Voice-Pay/
 ├── src/
 │   ├── components/
 │   │   └── Sidebar.jsx          # Navigation sidebar
@@ -131,8 +131,8 @@ The application uses the **Web Speech API** to recognize voice commands:
 
 | Command | Language | Action |
 |---------|----------|--------|
-| "Hello Vachan Pay" | English | Initiate payment mode |
-| "Suno Vachan Pay" | Hindi | Initiate payment mode in Hindi |
+| "Hello Voice Pay" | English | Initiate payment mode |
+| "Suno Voice Pay" | Hindi | Initiate payment mode in Hindi |
 | Voice Input | Both | Specify recipient & amount |
 
 ### 💳 Payment Processing
@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Anshul Lakra**
 
 - GitHub: [@lakraanshul](https://github.com/lakraanshul)
-- Live Demo: [Vachan-Pay](https://lakraanshul.github.io/Vachan-Pay)
+- Live Demo: [Voice-Pay](https://lakraanshul.github.io/Voice-Pay)
 
 ---
 
@@ -317,7 +317,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🐛 Issues & Support
 
-Found a bug? Have a feature request? Please [open an issue](https://github.com/lakraanshul/Vachan-Pay/issues) on GitHub.
+Found a bug? Have a feature request? Please [open an issue](https://github.com/lakraanshul/Voice-Pay/issues) on GitHub.
 
 ---
 
